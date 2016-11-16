@@ -1,4 +1,5 @@
 Empieza la historia de Lito y Javier
+<<<<<<< HEAD
 
 
 me presento, yo soy lito
@@ -8,12 +9,20 @@ y esto es un parrafo
 y esto es otro paragrafo por que me gustan mucho
 
 
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> 988a788c017604e27382c7f4c30580bc37f159bb
 Sigo la historia de Javier y Lito porque lito esta haciendo ramas.
 Despues de que Lito haga ramas seguira nuestra historia.
 
 Ultimo parrafo de la historia de Lito y Javi hecho por Javier.
+<<<<<<< HEAD
 
 Y este es el fin de nuestra bonita historia.
 
 THE END
+=======
+>>>>>>> ramaJavi
+>>>>>>> 988a788c017604e27382c7f4c30580bc37f159bb
